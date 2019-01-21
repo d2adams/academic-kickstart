@@ -29,7 +29,7 @@ interests = [
 [[education.courses]]
   course = "BS in Computer Science"
   institution = "University of Texas at Arlington"
-  year = Fall 2019 Intended
+  year = "Fall 2019 Intended"
 
 # Social/Academic Networking
 #
