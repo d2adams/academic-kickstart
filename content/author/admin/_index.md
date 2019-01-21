@@ -31,16 +31,6 @@ interests = [
   institution = "University of Texas at Arlington"
   year = Fall 2019 Intended
 
-#[[education.courses]]
-  course = ""
-  institution = ""
-  year = 
-
-#[[education.courses]]
-  course = ""
-  institution = ""
-  year = 
-
 # Social/Academic Networking
 #
 # Icon pack "fab" includes the following social network icons:
