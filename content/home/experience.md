@@ -23,8 +23,8 @@ date_format = "January 2006"
   company = "Chipotle Mexican Grill"
   company_url = "https://chipotle.com/"
   location = "San Bruno, California"
-  date_start = "June 2015"
-  date_end = "June 2016"
+  date_start = "June 1, 2015"
+  date_end = "June 1, 2016"
   description = """
   Responsibilities include:
   
