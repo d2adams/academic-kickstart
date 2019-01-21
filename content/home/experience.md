@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "San Bruno, California"
   date_start = "June 2015"
   date_end = "June 2016"
-  description = ""
+  description = """
   Responsibilities include:
   
   * Managed monthly food and equipment cost
