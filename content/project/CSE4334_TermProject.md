@@ -8,3 +8,5 @@ The most compelling reason why people would want this app is new and old experie
 {{% staticref "files/ProjectIdea.pdf" "newtab" %}}View the Project Proposal{{% /staticref %}}
 
 {{< figure library="1" src="AppUser.png" title="User Page Sketch" >}}
+{{< figure library="1" src="AppSearch.png" title="Search Page Sketch" >}}
+{{< figure library="1" src="AppArtist.png" title="Artist Page Sketch" >}}
