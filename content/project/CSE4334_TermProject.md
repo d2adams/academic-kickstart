@@ -22,3 +22,11 @@ The first phase of the development is to implement the search feature using supp
 During this phase of the project I was having problems with the search taking too much time to find results, and that the app would crash while trying to get the search results.  I am currently looking for methods that would make run time for the search more efficient, so that I can implement them for the later phases.  The problem with the app crashing was that the write could not complete without blocking. I was able to temporarily stop the problem by reducing the size of the dataset; however, that is not a permanent solution and I am looking into a way to fix it.
 
 Phase II:
+
+For the second phase of development I was able to find some methods that could reduce the time for searches by storing some of the values on the server itself.  The primary part of this phase is implementing a text classifier to find the genre based on user input.  I have currently been trying to implement either Naives Bayes or k-nearest neighbors, and see which one has the best results.
+
+I am still having some issues with proper classification which might be due to the dataset or the algorithm not being properly written. Also, depending on the changes I make to the code, the app starts to crash again when the user tries the functions on the app.
+
+Phase III:
+
+TBA
