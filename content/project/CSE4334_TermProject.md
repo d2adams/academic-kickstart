@@ -14,3 +14,11 @@ The most compelling reason why people would want this app is new and old experie
 {{< figure library="1" src="userPage.png" title="User Page Design Sketch" >}}
 {{< figure library="1" src="searchPage.png" title="Search Page Design Sketch" >}}
 {{< figure library="1" src="artistPage.png" title="Artist Page Design Sketch" >}}
+
+Phase I:
+
+The first phase of the development is to implement the search feature using support vector machine.  I used the dataset from lastfm that contains various artists, their tagged genres, and the number of users that have them tagged.  For this project I am creating a Android phone app that has the functionality hosted on a flask server via pythonanywhere.
+
+During this phase of the project I was having problems with the search taking too much time to find results, and that the app would crash while trying to get the search results.  I am currently looking for methods that would make run time for the search more efficient, so that I can implement them for the later phases.  The problem with the app crashing was that the write could not complete without blocking. I was able to temporarily stop the problem by reducing the size of the dataset; however, that is not a permanent solution and I am looking into a way to fix it.
+
+Phase II:
