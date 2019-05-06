@@ -7,6 +7,8 @@ The most compelling reason why people would want this app is new and old experie
 
 {{% staticref "files/ProjectIdea.pdf" "newtab" %}}View the Project Proposal{{% /staticref %}}
 {{% staticref "files/usage scenario.pdf" "newtab" %}}View some Usage Scenarios{{% /staticref %}}
+{{% staticref "https://github.com/d2adams/CSE4334TermProject" "newtab" %}}View source code{{% /staticref %}}
+
 
 {{< figure library="1" src="AppUser.png" title="User Page Sketch" >}}
 {{< figure library="1" src="AppSearch.png" title="Search Page Sketch" >}}
